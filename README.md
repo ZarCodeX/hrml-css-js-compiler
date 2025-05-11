@@ -36,13 +36,16 @@ Check out the live demo: [Real-Time Code Compiler](https://zarcodex.github.io/hr
 
 ## Folder Structure
 
+```
 project/
-├── index.html # Main HTML file
-├── styles.css # Styles for the editor and preview
-├── script.js # Core logic for the editor and preview functionality
+├── index.html        # Main HTML file
+├── styles.css        # Styles for the editor and preview
+├── script.js         # Core logic for the editor and preview functionality
 ├── assets/
-│ ├── favicon.png # Default favicon for projects
-│ └── background.png # Background image for the editor
+│   ├── favicon.png     # Default favicon for projects
+│   └── background.png  # Background image for the editor
+```
+
 
 
 
