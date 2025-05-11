@@ -43,7 +43,7 @@ project/
 ├── script.js         # Core logic for the editor and preview functionality
 ├── assets/
 │   ├── favicon.png     # Default favicon for projects
-│   └── background.png  # Background image for the editor
+│   └── background.png  # Background image for the editor 
 ```
 
 
