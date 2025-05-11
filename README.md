@@ -59,4 +59,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ---
 
-Made with ❤️ by [Zarcodex](https://github.com/ZarCodeX )
+Made with ❤️ by [ZarCodeX](https://github.com/ZarCodeX )
