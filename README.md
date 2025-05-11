@@ -1,6 +1,6 @@
 # Real-Time HTML, CSS, and JavaScript Code Compiler
 
-[![Preview](https://img.shields.io/badge/Preview-Live-brightgreen )](https://zarcodex.github.io/hrml-css-js-compiler/ )
+[![Preview](https://img.shields.io/badge/Preview-Live-brightgreen )](https://zarcodex.github.io/html-css-js-compiler/ )
 
 This is a real-time code editor that allows you to write **HTML**, **CSS**, and **JavaScript** code and see the results instantly in an integrated preview pane. Perfect for quick prototyping, learning web development, or testing code snippets.
 
@@ -17,7 +17,7 @@ This is a real-time code editor that allows you to write **HTML**, **CSS**, and 
 
 ## Live Demo
 
-Check out the live demo: [Real-Time Code Compiler](https://zarcodex.github.io/hrml-css-js-compiler/ )
+Check out the live demo: [Real-Time Code Compiler](https://zarcodex.github.io/html-css-js-compiler/ )
 
 ## How to Use
 
