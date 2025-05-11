@@ -35,3 +35,25 @@ Check out the live demo: [Real-Time Code Compiler](https://zarcodex.github.io/hr
 - **JavaScript `new Function()`**: For validating JavaScript syntax without executing it.
 
 ## Folder Structure
+
+project/
+├── index.html # Main HTML file
+├── styles.css # Styles for the editor and preview
+├── script.js # Core logic for the editor and preview functionality
+├── assets/
+│ ├── favicon.png # Default favicon for projects
+│ └── background.png # Background image for the editor
+
+
+
+## Contributing
+
+Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request. Please ensure that your changes maintain compatibility with existing features.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as needed.
+
+---
+
+Made with ❤️ by [Zarcodex](https://github.com/ZarCodeX )
